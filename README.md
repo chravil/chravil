@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on my undergrad degree
-- 🌱 I’m currently learning VR development and Drone Mapping https://ucdrones.github.io/index.html
+- 🌱 I’m currently learning VR development and Drone's: https://ucdrones.github.io/index.html
 - 📫 How to reach me: cavila10@ucsc.edu
 - 😄 Pronouns: He/Himself
 - 🙏 May God bless you and your loved ones
